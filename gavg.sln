@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gavg", "gavg.csproj", "{FF4D4F34-13DA-4219-8853-28D16C69DEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4D4F34-13DA-4219-8853-28D16C69DEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4D4F34-13DA-4219-8853-28D16C69DEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4D4F34-13DA-4219-8853-28D16C69DEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4D4F34-13DA-4219-8853-28D16C69DEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F17254-47C0-4D43-AB8A-5EF519BA3435}
+	EndGlobalSection
+EndGlobal
